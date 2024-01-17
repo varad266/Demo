@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "302325308919",
+    "project_id": "doctorpal-5bf12",
+    "storage_bucket": "doctorpal-5bf12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302325308919:android:01dcf6c43d0a2f9340a2f2",
+        "android_client_info": {
+          "package_name": "com.example.doctorpal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwcPJNsNlsoRwxAIe_QPOzxuxGm5lm_RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
